@@ -7,4 +7,4 @@
 
 ***
 > Deploy Your Bot On Heroku ✏
-<div align="left"><a href="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/SEW.md"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/Heroku_logo.svg.png" width="150" ></a></div>
+<div align="left"><a href="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/SEW.md"><img src="https://telegra.ph/file/d1848742b122538e679a5.jpg" width="150" ></a></div>
