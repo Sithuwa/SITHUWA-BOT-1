@@ -8,3 +8,8 @@
 ***
 > Deploy Your Bot On Heroku ✏
 <div align="left"><a href="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/SEW.md"><img src="https://telegra.ph/file/d1848742b122538e679a5.jpg" width="150" ></a></div>
+
+***
+✯ 𝐌𝐎𝐃 𝐁𝐘 𝐒𝐈𝐓𝐇𝐔𝐌 𝐊𝐀𝐋𝐇𝐀𝐑𝐀
+✯ 𝐒𝐈𝐓𝐇𝐔𝐖𝐀 𝐁𝐎𝐓
+✯ 𝐁𝐄𝐒𝐓 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
