@@ -1,22 +1,22 @@
 {
-  "name": "Aquabot-MD",
+  "name": "SITHUWA-BOT",
   "version": "1.0.0",
-  "description": "aquabot happy for whatsapp.",
+  "description": "SITHUWA BOT BEST WHATSAPP.",
   "main": "/aquabot/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
+    "url": "git+https://github.com/Sithuwa/SITHUWA-BOT-1.git"
   },
-  "author": "sanuwa official",
-  "developer": "sanuwa",
+  "author": "SITHUM KALHARA",
+  "developer": "SITHUWA",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
+    "url": "https://github.com/Sithuwa/SITHUWA-BOT-1"
   },
-  "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
+  "homepage": "https://github.com/Sithuwa/SITHUWA-BOT-1",
   "dependencies": {
    "@adiwajshing/baileys": "^4.3.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
