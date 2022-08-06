@@ -1,14 +1,14 @@
 {
-    "name": "Aquabot - MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
-    "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
-    "website":   "https://aquabot.ga/",
-    "success_url": "https://aquabot.ga",
+    "name": "SITHUWA-BOT",
+    "description": "SITHUWABOT  - Makes it easy and fun to use Whatsapp.",
+    "logo": "https://telegra.ph/file/90ecbecc7dcfb93ede0fa.jpg",
+    "keywords": ["whatsapp", "bestbot", "sithuwa", "bot"],
+    "repository": "https://github.com/Sithuwa/SITHUWA-BOT-1",
+    "website":   "https://github.com/Sithuwa/SITHUWA-BOT-1",
+    "success_url": "https://github.com/Sithuwa/SITHUWA-BOT-1",
     "stack": "container",
      "env": {
-            "AQUA_SESSION": {
+            "SITHUWA_SESSION": {
             "description": "",
             "required": true
              },
@@ -28,12 +28,12 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "Sanuwa Official" ,
+            "value": "SITHUM KALHARA" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94701629707" ,
+            "value": "94759333625" ,
             "required": true
              },
        
@@ -45,27 +45,27 @@
            
            "URL_1NAME": {
             "description": "",
-            "value": "🎊INSTAGRAM🎊" ,
+            "value": "💫MY ACCOUNT💫" ,
             "required": true
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://www.instagram.com/__.sanuwa.__/" ,
+            "value": "https://m.facebook.com/100049977400815/" ,
             "required": true
       },
      "URL_2NAME": {
             "description": "",
-            "value": "💻GITHUB💻" ,
+            "value": "👻GITHUB👻" ,
             "required": true
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://github.com/sanuwaofficial" ,
+            "value": "https://github.com/Sithuwa/SITHUWA-BOT-1" ,
             "required": true
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐈𝐓𝐇𝐔𝐖𝐀 𝐁𝐎𝐓" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -75,7 +75,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐒𝐈𝐓𝐇𝐔𝐌 𝐊𝐀𝐋𝐇𝐀𝐑𝐀" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -95,47 +95,55 @@
       },
       "ALIVE_LOGO": {
             "description": "",
-            "value": "https://telegra.ph/file/85fe740b2385a55178500.jpg" ,
+            "value": "https://telegra.ph/file/90ecbecc7dcfb93ede0fa.jpg" ,
             "required": true
       },
       "DEPLOYER": {
             "description": "",
-            "value": "AQUA USER" ,
+            "value": "𝐒𝐈𝐓𝐇𝐔𝐖𝐀" ,
             "required": true
       },
        "SONG_DOWN": {
             "description": "",
-            "value": "*📥Downloading your song...*" ,
+            "value": "*👻 ඔබේ ගීතය Downloading....*
+
+          *_ᴍᴏᴅ ʙʏ sɪᴛʜᴜᴍ ᴋᴀʟʜᴀʀᴀ_*" ,
             "required": true
       }, 
         "SONG_UP": {
             "description": "",
-            "value": "*📤Uploading your song...*" ,
+            "value": "*👻 ඔබේ ගීතය Uploading...*
+
+     *_ᴍᴏᴅ ʙʏ sɪᴛʜᴜᴍ ᴋᴀʟʜᴀʀᴀ_*" ,
             "required": true
       },
           "VIDEO_DOWN": {
             "description": "",
-            "value": "*📥Downloading your video...*" ,
+            "value": "*👻 ඔබේ වීඩියෝව Downloading....*
+
+                 *_ᴍᴏᴅ ʙʏ sɪᴛʜᴜᴍ ᴋᴀʟʜᴀʀᴀ_*" ,
             "required": true
       },
           "VIDEO_UP": {
             "description": "",
-            "value": "*📤Uploading your video...*" ,
+            "value": "*👻 ඔබේ වීඩියෝව Uploading...*
+
+            *_ᴍᴏᴅ ʙʏ sɪᴛʜᴜᴍ ᴋᴀʟʜᴀʀᴀ_*" ,
             "required": true
       },
           "FILE_DOWN": {
             "description": "",
-            "value": "*📥Downloading your file...*" ,
+            "value": "*👻Downloading your file...*" ,
             "required": true
       },
           "FILE_UP": {
             "description": "",
-            "value": "*📤Uploading your file...*" ,
+            "value": "*👻Uploading your file...*" ,
             "required": true
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "𝐒𝐈𝐓𝐇𝐔𝐖𝐀 𝐁𝐎𝐓" ,
             "required": true
       },
           "WORK_TYPE": {
@@ -150,7 +158,7 @@
       },
          "LANGUAGE": {
             "description": "",
-            "value": "EN" ,
+            "value": "SI" ,
             "required": true
       },
          "HEROKU": {
