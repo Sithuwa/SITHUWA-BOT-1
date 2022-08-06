@@ -7,7 +7,7 @@
 
 ***
 > Deploy Your Bot On Heroku ✏
-<div align="left"><a href="https://www.herokucdn.com/deploy/button.svg"><img src="https://telegra.ph/file/d1848742b122538e679a5.jpg" width="150" ></a></div>
+<div align="left"><a href="[https://www.herokucdn.com/deploy/button.svg](https://heroku.com/deploy?template=https://github.com/Sithuwa/SITHUWA-BOT-1)"><img src="https://telegra.ph/file/d1848742b122538e679a5.jpg" width="150" ></a></div>
 
 ***
 ✯ 𝐌𝐎𝐃 𝐁𝐘 𝐒𝐈𝐓𝐇𝐔𝐌 𝐊𝐀𝐋𝐇𝐀𝐑𝐀 
