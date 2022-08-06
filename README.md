@@ -4,10 +4,6 @@
 ***
 > scan  QR Code 👻
 <div align="left"><a href="https://replit.com/@SithuwaHack/SITHUWA-BOT-1?v=1"><img src="https://telegra.ph/file/39308a86911832fc6768e.jpg" width="150" ></a></div>
-
-***
-> Deploy Your Bot On Heroku ✏
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sanuwaofficial/AQUABOT-MD)
 ***
 ✯ 𝐌𝐎𝐃 𝐁𝐘 𝐒𝐈𝐓𝐇𝐔𝐌 𝐊𝐀𝐋𝐇𝐀𝐑𝐀 
 ***
